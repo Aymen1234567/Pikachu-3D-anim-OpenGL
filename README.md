@@ -4,7 +4,7 @@ Projet de **synthèse d’image** consistant à modéliser et animer un **Pikach
 en utilisant **OpenGL** et **GLUT / FreeGLUT** en **C++**.
 
 📚 Réalisé dans le cadre du module **Synthèse d’Image**  
-🎓 Master 1 Informatique – Université de Bourgogne  
+🎓 Licence 3 Informatique – Université de Bourgogne  
 📅 Année universitaire 2025–2026
 
 ---
