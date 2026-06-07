@@ -1,6 +1,6 @@
 # ⚡ Pikachu 3D animé – OpenGL
 
-Projet académique dans le cadre sdu cours **synthèse d’image** consistant à modéliser et animer un **Pikachu 3D interactif**
+Projet académique dans le cadre du cours **synthèse d’image** consistant à modéliser et animer un **Pikachu 3D interactif**
 en utilisant **OpenGL** et **GLUT / FreeGLUT** en **C++**.
 
 📚 Réalisé dans le cadre du module **Synthèse d’Image**  
